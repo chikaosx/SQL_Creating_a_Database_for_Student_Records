@@ -1,7 +1,5 @@
 # SQL_Creating_a_Database_for_Student_Records
 
-**Report: Creating a Database for Student Records**
-
 **Introduction:**
 
 The purpose of this report is to document the process of designing and implementing a database solution for managing student records. The task involves creating a database named "Students Record" and designing three related tables: "Students Info," "Health Records," and "Performance." Additionally, the report will cover the application of constraints and modifications to ensure data integrity and accuracy.
